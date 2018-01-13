@@ -10,3 +10,6 @@ FreeCodeCamp profile appears to be down. Hopefully my progress is saved. I was j
 
 1/10/18 Wednesday 9:16pm
 Discouraged. It seemed like FCC beta was close to going LIVE. After some investigation on github, it appears there are still 192 issues to work through. While that is hardly any compared to the 11,600+ closed issues that have been tackled, it still seems like the site might not be going LIVE as soon as I'd like. Perhaps this means I need to adjust my action plan. Will think on this.
+
+1/12/18 Friday 8:56pm
+Starting to get motivated again. Still have a lot to think about. I'm needing to work on another client project tonight so that takes priority. Still managed to complete three challenges in FCC. Will have more time tomorrow to learn - traveling for work and will have down time.
